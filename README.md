@@ -1,7 +1,7 @@
 <img src="https://www.dropbox.com/s/3yfwswslskmxfxc/laravel.png?dl=0" />
 
 
-<p align="center"><img src="https://www.dropbox.com/s/3yfwswslskmxfxc/laravel.png?dl=0" width="400"></p>
+<p align="center"><img src="https://creative-punch.net/wp-content/uploads/2013/12/laravel.jpg" width="400"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
