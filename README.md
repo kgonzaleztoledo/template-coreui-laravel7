@@ -1,4 +1,4 @@
-<img src="https://previews.dropbox.com/p/thumb/AA6oOtyHIZ0hDnVbYdLrqxSLZofL952g2JoZErKhhl5ErPY565F-6c8qnELCKeTskXgar41Ln4YwhcNewJWIBI4P1chMyxkV0sfeyrw9MqRTqO8KmTuiK9h-cU6MNDniN2geGyRlsxFE_3LlULjhcr_YrSfxu0cSH6IMjGXwGAy8EtKQfLOlyA73vu7uPnCyvHnt8ON_YH4Q_SfyETBCRBWbAhhF7AcQrc-SjImMHiexoEIaFFjGm9d--Q7d2TlVJZZT-RNN0upgsFUqKDQPbHhqg8yWo8LOhsJl2bVH4i_bz1Sg4ChV46ZHkmzOGs1ZYtMXMw2Evv4tV9YMrQ1e68LTGRqrTvLTBXbXxaQrBBTi6A/p.png?fv_content=true&size_mode=5" />
+<img src="https://madewithnetwork.ams3.cdn.digitaloceanspaces.com/spatie-space-production/13951/laravel-1144x758.png" />
 
 
 <p align="center"><img src="https://creative-punch.net/wp-content/uploads/2013/12/laravel.jpg" width="400"></p>
